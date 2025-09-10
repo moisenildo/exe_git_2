@@ -1,1 +1,3 @@
-# exe_git_2
+# Tabalhando com Git;
+- Aplicando códigos iniciais;
+- Utilizando GIT e GitHub;
